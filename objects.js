@@ -1,4 +1,7 @@
-var playlist = {}
+var playlist = {
+  BTS: 'Fake Love',
+  Beyonce: 'Formation'
+}
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist.artist = `${songTitle}`

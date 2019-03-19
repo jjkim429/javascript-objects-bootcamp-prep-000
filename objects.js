@@ -1,1 +1,1 @@
-var meals = { breakfast: 'oatmeal' };
+var meals = { breakfast: 'oatmeal', breakfast: 'eggs', breakfast: 'bacon' };

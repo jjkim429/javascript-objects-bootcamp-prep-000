@@ -1,6 +1,6 @@
 var playlist = {}
 
 function updatePlaylist(playlist, artist, songTitle) {
-  playlist.
+  playlist.artist = ${songTitle}
   return playlist
 }

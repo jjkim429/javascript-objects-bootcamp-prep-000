@@ -1,6 +1,5 @@
 var playlist = {
-  BTS: 'Fake Love',
-  Beyonce: 'Formation'
+  My Bloody Valentine: Slow Dive
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
